@@ -1,0 +1,18 @@
+#marketBar
+{
+    width: 400px;
+    height: 30px;
+    background-color: #e8e8e8;
+    position: fixed;
+    top: 70px;
+    right: 0px;
+    padding: 10px;
+}
+
+#marketBar>div{
+    line-height: 30px;
+}
+
+#marketBar>div img{
+    vertical-align: middle;
+}

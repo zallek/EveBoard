@@ -1,0 +1,23 @@
+#CharacterBar>div
+{
+    height: 30px;
+    background-color: #e8e8e8;
+    position: fixed;
+    top: 10px;
+    right: 0px;
+    padding: 10px;
+}
+
+#CharacterBar div.little
+{
+    width: 50px;
+}
+
+#CharacterBar div.big
+{
+    width: 400px;
+}
+
+#characterBar>div{
+    line-height: 30px;
+}

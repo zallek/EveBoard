@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eveapi version="2">
+  <currentTime>2013-08-08 17:08:55</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID,corporationName,corporationID">
+      <row name="Tarh Damir" characterID="93619884" corporationName="Imperial Academy" corporationID="1000166" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-08 17:56:49</cachedUntil>
+</eveapi>
